@@ -1,0 +1,16 @@
+{
+  "name": "nipun_npm",
+  "version": "1.0.1",
+  "description": "My test npmjs module ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "api",
+    "backend"
+  ],
+  "author": "nipun",
+  "license": "ISC"
+}
